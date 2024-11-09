@@ -6,5 +6,13 @@ I will be updating this documentation daily to ensure accuracy and thoroughness.
 
 Happy learning and collaborating!
 
-1. Module 1:
-  
+
+<h2>Module 1- Intro to Node.js</h2> 
+  1. What is Node.js? <br/>
+  2. PHP vs. Node.js  <br/>
+  3. RAM vs. I/O Latency  <br/> 
+  4. Blocking vs Non-blocking  <br/> 
+  5. Event-Driven Programming  <br/>
+  6. Event Loop  <br/>
+  7. Blocking the Event Loop   <br/>
+ 
