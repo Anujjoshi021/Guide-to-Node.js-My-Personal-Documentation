@@ -14,5 +14,16 @@ Happy learning and collaborating!
   4. Blocking vs Non-blocking  <br/> 
   5. Event-Driven Programming  <br/>
   6. Event Loop  <br/>
-  7. Blocking the Event Loop   <br/>
+  7. Blocking the Event Loop  <br/>
+
+
+<h2>Module 2- Node.js Platform Setup</h2>
+  1. Node REPL  <br/>
+  2. Download and Install Node.js  <br/>
+  3. Import Required Modules  <br/>
+  4. Creating Web Server  <br/>
+  5. Sending Request  <br/>
+  6. Handling HTTP requests  <br/>
+  7. Write your First Hello-World Program  <br/>
+  8. Deploy your node app on any platform like Heroku  <br/>
  
