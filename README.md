@@ -26,4 +26,14 @@ Happy learning and collaborating!
   6. Handling HTTP requests  <br/>
   7. Write your First Hello-World Program  <br/>
   8. Deploy your node app on any platform like Heroku  <br/>
+
+
+<h2>Module 3- Node JS Modules</h2>
+  1. Functions
+  2. Buffer
+  3. Module
+  4. Modules Types
+  5. Core Modules
+  6. Local Modules
+  7. Modules Exports
  
