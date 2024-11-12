@@ -29,11 +29,11 @@ Happy learning and collaborating!
 
 
 <h2>Module 3- Node JS Modules</h2>
-  1. Functions
-  2. Buffer
-  3. Module
-  4. Modules Types
-  5. Core Modules
-  6. Local Modules
-  7. Modules Exports
+  1. Functions  <br/>
+  2. Buffer  <br/>
+  3. Module  <br/>
+  4. Modules Types  <br/>
+  5. Core Modules  <br/>
+  6. Local Modules  <br/>
+  7. Modules Exports  <br/>
  
