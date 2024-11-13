@@ -39,8 +39,8 @@ Happy learning and collaborating!
 
 
 <h2>Module 4- Node Package Manager</h2>
-  1. What is NPM
-  2. Installing Packages Locally
-  3. Installing Package globally
-  4. Adding dependencies in package.json
-  5. Updating Packages
+  1. What is NPM  <br/>
+  2. Installing Packages Locally  <br/>
+  3. Installing Package globally  <br/>
+  4. Adding dependencies in package.json  <br/>
+  5. Updating Packages  <br/>
