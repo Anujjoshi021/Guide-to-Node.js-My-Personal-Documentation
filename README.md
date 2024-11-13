@@ -36,4 +36,11 @@ Happy learning and collaborating!
   5. Core Modules  <br/>
   6. Local Modules  <br/>
   7. Modules Exports  <br/>
- 
+
+
+<h2>Module 4- Node Package Manager</h2>
+  1. What is NPM
+  2. Installing Packages Locally
+  3. Installing Package globally
+  4. Adding dependencies in package.json
+  5. Updating Packages
