@@ -44,3 +44,14 @@ Happy learning and collaborating!
   3. Installing Package globally  <br/>
   4. Adding dependencies in package.json  <br/>
   5. Updating Packages  <br/>
+
+
+<h2>Module 5- File System</h2>
+  1. Read File  <br/>
+  2. Writing a File  <br/>
+  3. Opening a File  <br/>
+  4. Deleting a File  <br/>
+  5. Writing a file asynchronously  <br/>
+  6. Other I/O Operations  <br/>
+
+  
