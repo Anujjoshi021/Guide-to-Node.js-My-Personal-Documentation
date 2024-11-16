@@ -55,6 +55,13 @@ Happy learning and collaborating!
   6. Other I/O Operations  <br/>
 
 
+<h2>Module 6- Buffers</h2>
+  1. Why Buffers exist
+  2. Creating Buffers
+  3. Reading and Writing Buffers
+  4. Manipulating Buffers
+
+
 
   
 
