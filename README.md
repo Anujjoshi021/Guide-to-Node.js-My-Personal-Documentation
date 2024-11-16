@@ -56,10 +56,10 @@ Happy learning and collaborating!
 
 
 <h2>Module 6- Buffers</h2>
-  1. Why Buffers exist
-  2. Creating Buffers
-  3. Reading and Writing Buffers
-  4. Manipulating Buffers
+  1. Why Buffers exist  <br/>
+  2. Creating Buffers  <br/>
+  3. Reading and Writing Buffers  <br/>
+  4. Manipulating Buffers  <br/>
 
 
 
