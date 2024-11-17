@@ -62,6 +62,16 @@ Happy learning and collaborating!
   4. Manipulating Buffers  <br/>
 
 
+<h2>Module 7- Streams</h2>
+  1. What are Streams
+  2. Read and Write Stream API
+  3. Flow Control
+  4. Piping
+  5. Duplex Stream
+  6. Transform Stream
+  
+
+
 
   
 
