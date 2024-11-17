@@ -63,12 +63,12 @@ Happy learning and collaborating!
 
 
 <h2>Module 7- Streams</h2>
-  1. What are Streams
-  2. Read and Write Stream API
-  3. Flow Control
-  4. Piping
-  5. Duplex Stream
-  6. Transform Stream
+  1. What are Streams  <br/>
+  2. Read and Write Stream API  <br/>
+  3. Flow Control  <br/>
+  4. Piping  <br/>
+  5. Duplex Stream  <br/>
+  6. Transform Stream  <br/>
   
 
 
