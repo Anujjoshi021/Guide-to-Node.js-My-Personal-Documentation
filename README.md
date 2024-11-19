@@ -72,8 +72,8 @@ Happy learning and collaborating!
   
 
 <h2>Module 8- Debugging Node JS Application</h2>
-  1. Core Node JS Debugger
-  2. Callbacks: Error-first
+  1. Core Node JS Debugger  <br/>
+  2. Callbacks: Error-first  <br/>
 
 
   
