@@ -71,6 +71,9 @@ Happy learning and collaborating!
   6. Transform Stream  <br/>
   
 
+<h2>Module 8- Debugging Node JS Application</h2>
+  1. Core Node JS Debugger
+  2. Callbacks: Error-first
 
 
   
