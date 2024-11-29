@@ -7,7 +7,7 @@ I will be updating this documentation daily to ensure accuracy and thoroughness.
 Happy learning and collaborating!
 
 
-<h2>Module 1- Intro to Node.js</h2
+<h2>Module 1- Intro to Node.js</h2>
   1. What is Node.js? <br/>
   2. PHP vs. Node.js  <br/>
   3. RAM vs. I/O Latency  <br/> 
